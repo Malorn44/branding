@@ -20,7 +20,7 @@ This repository contains the YACS logo in the following variations:
   - Lockup
   - Standalone
 
-Each logo variant is available in both EPS and SVG in the following colors:
+Each logo variant is available in EPS, PNG and SVG in the following colors:
 - Black
 - White
 - Full Color Coated (for web and glossy prints)
