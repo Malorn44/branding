@@ -27,6 +27,14 @@ Our brand guidelines are listed below.
 
 ## Brand Guidelines
 
+### Logo Usage
+
+Below is our full color logo. In the full color variant, the cap MUST be black and the horns and text must be red according to our [color palette](#colors).
+
+![full color yacs logo](logo/lockup/png/yacs-symbol-lockup-coated.png)
+
+
+
 ### Spelling
 Correct:
 - Yacs
@@ -54,9 +62,7 @@ TODO add scheduler color swatches
 ### Fonts
 
 #### Display fonts
-- [Josefin Slab Semibold](https://fonts.google.com/specimen/Josefin+Slab) - used in letterform lockup
-- [Quicksand Bold](https://fonts.google.com/specimen/Quicksand) - used in symbol lockup
-- [Comfortaa Bold](https://fonts.google.com/specimen/Comfortaa) - used in wordmark
+- [Quicksand Bold](https://fonts.google.com/specimen/Quicksand)
 
 #### Body fonts
 TODO 
