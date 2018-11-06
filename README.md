@@ -12,13 +12,10 @@ Yacs brand guidelines and assets
     - [Body fonts](#body-fonts)
 ## Repo Contents
 This repository contains the YACS logo in the following variations:
-- Wordmark
-- Letterform
-  - Lockup
-  - Standalone
-- Symbol
-  - Lockup
-  - Standalone
+- Lockup
+- Standalone
+
+For our other assets (letterform and wordmark), see the `initial-assets` branch.
 
 Each logo variant is available in EPS, PNG and SVG in the following colors:
 - Black
